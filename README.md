@@ -1,1 +1,5 @@
 # MVC_JAMUKU
+
+#Hak cipta
+
+Dibuat oleh LUSIANA ESTELA RAO (202359201037) 2025.
